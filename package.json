@@ -12,6 +12,10 @@
   },
   "author": "Are Jorg",
   "license": "ISC",
+  "dependencies": {
+    "node-rest-client": "2.0.1",
+    "inquirer": "1.2.2",
+  },
   "bugs": {
     "url": "https://github.com/hajorg/A-Simple-Command-Line-Api-App/issues"
   },
